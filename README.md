@@ -143,10 +143,7 @@ A dynamic, responsive, and feature-rich **IT Asset Management System** built usi
 
 ---
 
-## 📬 Contact
 
-For questions or contributions, feel free to reach out:  
-📧 `your-email@example.com`
 
 ---
 
