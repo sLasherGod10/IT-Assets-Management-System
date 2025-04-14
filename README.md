@@ -30,13 +30,7 @@ A comprehensive IT Asset Management System built with PHP, MySQL, and Bootstrap.
 - Admin: admin@itams.com / admin123
 - Employee: employee@itams.com / employee123
 
-Sure! Based on your project details and enhancements you've made recently, here's an **updated and more complete `README.md`** file for your **IT Asset Management System** project:
-
----
 
 
 
 
----
-
-Let me know if you'd like me to tailor this for GitHub or add badges/shields for build, license, etc.
